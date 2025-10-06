@@ -1,8 +1,7 @@
 ## Hi there 👋 I'm Talha  
 
-I'm a **Computer Science student at the University of Manchester** passionate about building things that solve real-world problems — from trading tools to community projects.  
+I'm a **1st year Computer Science student at the University of Manchester** passionate about building things that solve real-world problems — from trading tools to community projects.  
 
--🎓 I’m a **1st-year Computer Science student at the University of Manchester**.  
 💻 I work mainly with **Python**, **Bash**, and **PostgreSQL**, and I’m currently learning **C++** to deepen my systems knowledge.  
 🚀 Passionate about **fintech, hackathons, and community building** as **Co-Chair of Google Developer Group Manchester**.  
 
